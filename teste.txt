@@ -4,4 +4,4 @@ testando branches  do git
 Testando repositório.
 
 Testando branches.
->>>>>>> segunda
+>>>>>>> segunda 
